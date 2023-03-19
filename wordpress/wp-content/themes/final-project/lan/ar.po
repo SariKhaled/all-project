@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: final-project\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-02-01 07:25+0000\n"
+"PO-Revision-Date: 2023-02-01 07:31+0000\n"
+"Last-Translator: \n"
+"Language-Team: Arabic\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100 >= 3 "
+"&& n%100<=10 ? 3 : n%100 >= 11 && n%100<=99 ? 4 : 5;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: final_project"
+
+#: page.php:509
+msgid " Check me out"
+msgstr "تحقق"
+
+#: archive.php:28
+msgid " News"
+msgstr "اخبار"
+
+#: page.php:514
+msgid " Sign in"
+msgstr "تسجيل"
+
+#: page.php:497
+msgid "..."
+msgstr ".."
+
+#: page.php:485
+msgid "Address 2"
+msgstr "عنوان 2"
+
+#. Name of the template
+msgid "ads template"
+msgstr ""
+
+#. Author of the theme
+msgid "Anonymous"
+msgstr ""
+
+#: page.php:496
+msgid "Choose..."
+msgstr "اختيار"
+
+#: page.php:490
+msgid "City"
+msgstr "مدينة"
+
+#: page.php:462
+msgid "Contact Us"
+msgstr "تواضل معنا"
+
+#: footer.php:6
+msgid "Copyright &copy; Momen Sisalem 2018"
+msgstr ""
+
+#: page.php:468
+msgid "Email"
+msgstr "ايميل"
+
+#. Name of the theme
+msgid "final-project"
+msgstr ""
+
+#: page.php:363 page.php:372
+msgid "Healthy News"
+msgstr "اخبار صحية"
+
+#: archive.php:35 page.php:28 page.php:141 page.php:255 page.php:369
+#: single.php:10
+msgid "Home News"
+msgstr "الصفحة  الرئيسية"
+
+#: page.php:249 page.php:258
+msgid "International News"
+msgstr "اخبار عالمية"
+
+#: page.php:31
+msgid "local"
+msgstr "اخبار محلية"
+
+#: page.php:22
+msgid "local news"
+msgstr "اخبار محلية"
+
+#: single.php:133
+msgid "News"
+msgstr "اخبار"
+
+#: page.php:472
+msgid "Password"
+msgstr "كلمة السر"
+
+#: page.php:86 page.php:199 page.php:313 page.php:427
+msgid "preivous"
+msgstr "رجوع"
+
+#: page.php:59 page.php:172 page.php:286 page.php:400
+msgid "Read more"
+msgstr "قراءة المزيد"
+
+#: page.php:144
+msgid "sports"
+msgstr "رياضة"
+
+#: page.php:135
+msgid "sports news"
+msgstr "اخبار رياضة"
+
+#: page.php:494
+msgid "State"
+msgstr "موقع"
+
+#: page.php:501
+msgid "Zip"
+msgstr "كود"

@@ -1,0 +1,104 @@
+.comments-list ul,
+.comments-list ol {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.comments-list .comment .says {
+  display: none;
+}
+.comments-list .comment img {
+  padding: 3px;
+  border: 1px solid #ccc;
+  background-color: #fff;
+  margin-bottom: 5px;
+  margin-left: 5px;
+}
+.comments-list .comment .comment-meta {
+  font-size: 12px;
+  color: #777;
+}
+.comments-list .comment .comment-meta {
+  font-size: 12px;
+  color: #777;
+}
+
+.comments-list > .comment {
+  background-color: rgb(251, 247, 247);
+  padding: 10px;
+  border: 1px solid #ddd;
+  margin-bottom: 20px;
+}
+.comments-list > .comment > .children > .comment {
+  background-color: #eee;
+  padding: 10px;
+  margin-top: 10px;
+  border: 1px solid #ccc;
+}
+.comments-count {
+  padding: 10px;
+  background-color: #eee;
+  font-size: 24px;
+  margin-top: 0px;
+  color: #909090;
+  border: 1px solid #dedede;
+}
+.comment-respond {
+  display: block;
+}
+.comment-respond input[type="text"],
+.comment-respond textarea {
+  height: 40px;
+  width: 500px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+.comment-respond textarea {
+  height: 200px;
+  resize: none;
+}
+.comment-reply-title {
+}
+.submit {
+  background-color: #3e576d;
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+  color: white;
+  cursor: pointer;
+}
+form p #comment {
+  display: block;
+  padding: 10px;
+  margin: 10px -10px 0 0;
+  width: 100%;
+  height: 90%;
+  border-left: 1px solid #3e576d;
+}
+form p #comment:focus {
+  border: 1px solid #3e576d;
+}
+.sari1 {
+  position: absolute;
+  left: 210px;
+  margin-bottom: 100px;
+}
+.custom-logo {
+  border-radius: 3px;
+  border-color: transparent;
+  margin-left: 10px;
+}
+.btn-sari {
+  margin-right: 10px;
+  color: white;
+}
+
+#aim  {
+  
+  color: white;
+  background-color: rgb(243, 9, 9);
+}
+#aim p {
+  margin-right: 150px;
+}
